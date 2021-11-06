@@ -31,3 +31,5 @@
 ##### 5.配置构建后操作
 <br />如果有多个需要部署的服务器即添加多个SSH Server
 ![image](https://user-images.githubusercontent.com/20660091/140595148-22720329-58b6-4cba-b81e-c485a41b7738.png)
+## 最后
+![image](https://user-images.githubusercontent.com/20660091/140605007-00e69d51-daff-42af-a8f4-452bc052edc7.png)
